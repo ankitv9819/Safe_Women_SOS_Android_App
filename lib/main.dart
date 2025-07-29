@@ -1,13 +1,14 @@
 import 'package:flutter/material.dart';
 import 'login.dart';
 import 'home.dart';
-import 'settings.dart';
 
 void main() {
   runApp(WomanSafetyApp());
 }
 
 class WomanSafetyApp extends StatelessWidget {
+  const WomanSafetyApp({super.key});
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
@@ -21,7 +22,7 @@ class WomanSafetyApp extends StatelessWidget {
       routes: {
         '/': (context) => LoginPage(),
         '/home': (context) => HomeScreen(),
-        '/settings': (context) => SettingsScreen(),
+        
       },
     );
   }

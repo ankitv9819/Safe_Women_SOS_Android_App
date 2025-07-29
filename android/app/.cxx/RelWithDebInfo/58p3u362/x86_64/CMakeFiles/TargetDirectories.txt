@@ -1,0 +1,2 @@
+E:/proper/Woman-Safety-App/android/app/.cxx/RelWithDebInfo/58p3u362/x86_64/CMakeFiles/edit_cache.dir
+E:/proper/Woman-Safety-App/android/app/.cxx/RelWithDebInfo/58p3u362/x86_64/CMakeFiles/rebuild_cache.dir
