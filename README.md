@@ -1,16 +1,11 @@
 # woman_safety_app
 
-A new Flutter project.
+Safe Women is a mobile application designed to empower women by providing instant emergency communication features. The app allows users to send SOS alerts, share real-time locations, and contact emergency services with a single tap.
 
-## Getting Started
+ -Provide a user-friendly interface for emergency support.
+ -Enable real-time location tracking and sharing.
+ -Connect users to emergency services and contacts instantly.
+ -Enhance personal safety and community response systems.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
